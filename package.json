@@ -1,8 +1,10 @@
 {
-  "name": "youtube-mcp",
+  "name": "youtube-transcript-api",
   "version": "1.0.0",
-  "type": "module",
+  "scripts": {
+    "start": "node api/transcript.js"
+  },
   "dependencies": {
-    "ytdl-core": "^4.11.5"
+    "youtube-transcript": "^1.0.6"
   }
 }
