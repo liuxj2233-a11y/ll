@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "latest",
-    "youtube-transcript": "latest"
+    "ytdl-core": "^4.11.5"
   }
 }
